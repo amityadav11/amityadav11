@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 <img src="https://stackoverflow.design/assets/img/logos/so/logo-meta.svg" alt="stack" width="170"  height="50">
 
-<table>
+<table style="width: 60%">
   <tr>
-    <td valign="top"> <img src="https://github-readme-stackoverflow.vercel.app/?userID=7280605" alt= "amit"/></td>
-    <td></td>
+    <td valign="top" style="width: 270px; height: 60px;"> <img src="https://github-readme-stackoverflow.vercel.app/?userID=7280605" alt= "amit" /></td>
+    <td width="75%"><h2>I am a full stack web developer with experience in building many real world projects. I am passionate about creating functional and visually appealing websites.  Feel free to contact me at <a href="" style="color: orange; text-decoration: underline;">amityadav11@hotmail.com</a> for collaboration or a chat about web development.</h2></td>
   </tr>
 </table>
 
