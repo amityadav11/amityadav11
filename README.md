@@ -1,5 +1,5 @@
 # Hi there I am Amit👋
-## [My Portfolio Live](https://amityadav11.github.io/)
+## Check out [My Portfolio Live](https://amityadav11.github.io/)
 
 <!--
 **amityadav11/amityadav11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table style="width: 60%">
   <tr>
     <td valign="top" style="width: 270px; height: 60px;"> <img src="https://github-readme-stackoverflow.vercel.app/?userID=7280605" alt= "amit" /></td>
-    <td width="75%"><h2>I am a full stack web developer with experience in building many real world projects. I am passionate about creating functional and visually appealing websites.  Feel free to contact me at <a href="" style="color: orange; text-decoration: underline;">amityadav11@hotmail.com</a> for collaboration or a chat about web development.</h2></td>
+    <td width="75%"><h2>I am a full stack web developer with experience in building many real world projects. I am passionate about creating functional and visually appealing websites.  Feel free to contact me at <a href="https://mail.google.com/" style="color: orange; text-decoration: underline;">amityadav11@hotmail.com</a> for collaboration or a chat about web development.</h2></td>
   </tr>
 </table>
 
